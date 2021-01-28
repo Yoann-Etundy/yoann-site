@@ -1,0 +1,25 @@
+.btn-treehouse {
+    background-color: rgba(7, 161, 54, 0.712);
+    border-radius: 5%;
+    color: white ;
+    padding: 12px 24px;
+    opacity: 1;
+    margin-left: 40%;
+  }
+  .btn-treehouse:hover {
+    opacity: 0.9;
+    background-color: rgb(148, 26, 4);
+  }
+
+  .btn-medium {
+    border-radius: 45px;
+    padding: 14px 28px;
+    color: gray;
+    opacity: .6;
+    border: 1px solid gray;
+  }
+  .btn-medium:hover {
+    opacity: 1;
+    background-color: rgb(100, 87, 87);
+    color: white;
+  }

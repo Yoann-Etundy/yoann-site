@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-evenly;
+  margin-bottom: 25px;
+}
+
+.cards img {
+  height: 190px;
+  width: 190px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.card-actu {
+  width: 250px;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 5px 8px 25px rgba(0, 0, 0, 0.07);
+  text-align: center;
+  padding: 20px ;
+  border: 1.5px solid rgba(0, 0, 0, 0.2);
+}

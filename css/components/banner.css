@@ -1,0 +1,22 @@
+.banner {
+  background-size: cover;
+  background-position: top;
+  height: 280px;
+  padding: 100px 10px;
+}
+
+.title {
+  margin-top: 10%;
+  margin-bottom: 4px;
+  color: white;
+  text-align: center;
+  opacity: 1;
+}
+
+.banner p {
+  margin-top: 2px;
+  margin-bottom: 30px;
+  color: white;
+  text-align: center;
+  opacity: 0.7;
+}

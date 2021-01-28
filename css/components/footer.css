@@ -1,0 +1,28 @@
+.footer {
+  background-color: slategray;
+  height: 105px;
+  padding: 25px;
+}
+
+.logo {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-left: 240px;
+  margin-right: 240px;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 25px;
+}
+
+.fab {
+  font-family: "Font Awesome 5 Brands";
+}
+
+.footer a {
+  justify-content: space-between;
+  font-size: 40px;
+  color: #a31f0e;
+}
